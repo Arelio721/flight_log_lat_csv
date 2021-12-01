@@ -1,0 +1,110 @@
+id,ident,type,name,latitude,longitude,municipality
+26751,WADD,large_airport,Ngurah Rai (Bali) International Airport,-8.748169899,115.1669998,Denpasar-Bali Island
+26835,WIII,large_airport,Soekarno-Hatta International Airport,-6.12556982,106.6559982,Jakarta
+26787,WARJ,small_airport,Adisutjipto International Airport,-7.78818,110.431999,Yogyakarta-Java Island
+26789,WARR,large_airport,Juanda International Airport,-7.379829884,112.7870026,Surabaya
+26832,WIHH,medium_airport,Halim Perdanakusuma International Airport,-6.266610146,106.8909988,Jakarta
+299629,WADL,medium_airport,Lombok International Airport,-8.757322,116.276675,Mataram
+26745,WAAA,large_airport,Hasanuddin International Airport,-5.061629772,119.5540009,Ujung Pandang-Celebes Island
+26790,WARS,small_airport,Achmad Yani Airport,-6.97273,110.375,Semarang-Java Island
+26770,WAMM,medium_airport,Sam Ratulangi Airport,1.54926,124.926003,Manado
+26824,WICC,medium_airport,Husein Sastranegara International Airport,-6.900629997,107.5759964,Bandung-Java Island
+26855,WIPP,medium_airport,Sultan Mahmud Badaruddin II Airport,-2.897653,104.698147,Palembang
+26862,WITT,medium_airport,Sultan Iskandar Muda International Airport,5.522872024,95.42063713,Banda Aceh
+26828,WIDD,medium_airport,Hang Nadim International Airport,1.121029973,104.1190033,Batam Island
+309577,WIMM,large_airport,Kualanamu International Airport,3.64177,98.885307,Bandara Kuala Namu
+26755,WAJJ,large_airport,Sentani International Airport,-2.57695,140.516006,Jayapura-Papua Island
+26788,WARQ,small_airport,Adisumarmo International Airport,-7.513564,110.750494,Sukarata(Solo)-Java Island
+26821,WIBB,medium_airport,Sultan Syarif Kasim Ii (Simpang Tiga) Airport,0.460786015,101.4449997,Pekanbaru-Sumatra Island
+26760,WALL,small_airport,Sultan Aji Muhamad Sulaiman Airport,-1.268270016,116.8939972,Kotamadya Balikpapan
+26756,WAJW,medium_airport,Wamena Airport,-4.10251,138.957001,"Wamena, Jayawijaya Regency, Papua Province"
+26800,WATO,small_airport,Komodo Airport,-8.48666,119.889,Labuan Bajo - Flores Island
+26746,WABB,medium_airport,Frans Kaisiepo Airport,-1.190019965,136.1080017,Biak-Supiori Island
+26858,WIPT,large_airport,Minangkabau International Airport,-0.786917,100.280998,Padang (Katapiang)
+26748,WABP,medium_airport,Mozes Kilangin Airport,-4.52828,136.886993,Timika-Papua Island
+26833,WIHL,medium_airport,Tunggul Wulung Airport,-7.645060062,109.0339966,Cilacap-Java Island
+26801,WATT,small_airport,El Tari Airport,-10.17160034,123.6709976,Kupang-Timor Island
+26784,WAPP,medium_airport,"Pattimura Airport, Ambon",-3.710259914,128.0890045,Ambon
+26794,WASR,medium_airport,Rendani Airport,-0.891833,134.048996,Manokwari-Papua Island
+26827,WILL,medium_airport,Radin Inten II International Airport,-5.240556,105.175556,Bandar Lampung-Sumatra Island
+26779,WAOO,small_airport,Syamsudin Noor Airport,-3.44236,114.763,Banjarmasin-Borneo Island
+26850,WIPA,small_airport,Sultan Thaha Airport,-1.63802,103.643997,Jambi-Sumatra Island
+26852,WIPK,small_airport,Depati Amir Airport,-2.1622,106.139,Pangkal Pinang
+32634,WAXX,large_airport,Domine Eduard Osok Airport,-0.894,131.287,Sorong-Papua Island
+26847,WIOO,medium_airport,Supadio Airport,-0.150711,109.4039993,Pontianak-Borneo Island
+26757,WAKK,medium_airport,Mopah International Airport,-8.52029,140.417999,Merauke
+26769,WAML,medium_airport,Mutiara - SIS Al-Jufrie Airport,-0.916462,119.908647,Palu
+26836,WIMB,medium_airport,Binaka Airport,1.16628,97.704327,Gunungsitoli
+26747,WABI,medium_airport,Nabire Airport,-3.36818,135.496002,Nabire-Papua Island
+26806,WAWW,small_airport,Wolter Monginsidi Airport,-4.081610203,122.4179993,Kendari-Celebes Island
+26780,WAOP,small_airport,Tjilik Riwut Airport,-2.225130081,113.9430008,Palangkaraya-Kalimantan Tengah
+26762,WALR,medium_airport,Juwata Airport,3.326667,117.569444,Tarakan Island
+26791,WASF,medium_airport,Fakfak Airport,-2.920190096,132.2669983,Fakfak-Papua Island
+26792,WASK,medium_airport,Kaimana Airport,-3.644520044,133.6959991,Kaimana-Papua Island
+26844,WIOK,medium_airport,Rahadi Osman Airport,-1.81664,109.962997,Ketapang
+26838,WIMG,medium_airport,Tabing Airport,-0.874989,100.351997,Padang
+26773,WAMT,medium_airport,Sultan Babullah Airport,0.831414,127.380997,Sango-Ternate Island
+26849,WIOS,medium_airport,Sintang(Susilo) Airport,0.063619003,111.4729996,Sintang-Borneo Island
+26797,WATE,small_airport,Ende (H Hasan Aroeboesman) Airport,-8.849289894,121.6610031,Ende-Flores Island
+26767,WAMG,small_airport,Jalaluddin Airport,0.637118995,122.8499985,Gorontalo-Celebes Island
+26785,WARA,small_airport,Abdul Rachman Saleh Airport,-7.92656,112.714996,Malang
+26842,WIOD,small_airport,H A S Hanandjoeddin International Airport,-2.74572,107.754997,Tanjung Pandan
+26759,WALK,medium_airport,Kalimarau Airport,2.1555,117.431999,Tanjung Redeb - Borneo Island
+41423,WAJB,small_airport,Bokondini Airport,-3.6822,138.6755,Bokondini
+26861,WITM,small_airport,Malikus Saleh Airport,5.226679802,96.95030212,Lhok Seumawe-Sumatra Island
+26837,WIME,medium_airport,Aek Godang Airport,1.4001,99.430496,Padang Sidempuan
+3272,WI1A,small_airport,Nusawiru Airport,-7.719895,108.488995,Cijulang
+41428,WAJO,small_airport,Oksibil Airport,-4.9071,140.6277,Oksibil-Papua Island
+26853,WIPL,medium_airport,Fatmawati Soekarno Airport,-3.8637,102.338997,Bengkulu
+26822,WIBD,medium_airport,Pinang Kampai Airport,1.609114,101.433492,Dumai
+26768,WAMH,medium_airport,Naha Airport,3.683209896,125.5279999,Tahuna-Sangihe Island
+26856,WIPQ,medium_airport,Pendopo Airport,-3.286070108,103.8799973,Talang Gudang-Sumatra Island
+26750,WADB,small_airport,Muhammad Salahuddin Airport,-8.539649963,118.6869965,Bima-Sumbawa Island
+35277,WALJ,small_airport,Datadawai Airport,0.8106,114.5306,Datadawai-Borneo Island
+26796,WATC,small_airport,Maumere(Wai Oti) Airport,-8.640649796,122.2369995,Maumere-Flores Island
+26777,WAOI,small_airport,Iskandar Airport,-2.7052,111.672997,Pangkalanbun-Borneo Island
+26763,WALS,large_airport,Aji Pangeran Tumenggung Pranoto International Airport,-0.374478,117.250128,Samarinda
+26781,WAOS,small_airport,Sampit(Hasan) Airport,-2.501389,112.975555,Sampit-Borneo Island
+26752,WADS,small_airport,Sumbawa Besar Airport,-8.489040375,117.4120026,Sumbawa Island
+26778,WAON,medium_airport,Warukin Airport,-2.216559887,115.435997,Tanta-Tabalong-Borneo Island
+26754,WADW,small_airport,Umbu Mehang Kunda Airport,-9.66922,120.302002,Waingapu-Sumba Island
+26799,WATM,small_airport,Mali Airport,-8.132340431,124.5970001,Alor Island
+31730,WAOK,small_airport,Gusti Syamsir Alam Airport,-3.29472,116.165001,Stagen - Laut Island
+26830,WIDN,small_airport,Raja Haji Fisabilillah International Airport,0.922683001,104.5319977,Tanjung Pinang-Bintan Island
+26753,WADT,small_airport,Tambolaka Airport,-9.40972,119.244003,Waikabubak-Sumba Island
+26843,WIOG,medium_airport,Nanga Pinoh Airport,-0.348868996,111.7480011,Nanga Pinoh-Borneo Island
+41389,WAPC,small_airport,Bandanaira Airport,-4.5214,129.9054,Banda-Naira Island
+30806,WRLC,small_airport,Bontang Airport,0.119691,117.474998,Bontang-Borneo Island
+42250,WAHU,small_airport,Dewadaru - Kemujan Island,-5.80091,110.47838,Karimunjawa
+31889,WITC,medium_airport,Cut Nyak Dhien Airport,4.040631,96.253538,Kuala Pesisir
+41468,WIPU,small_airport,Muko Muko Airport,-2.54186,101.087997,Muko Muko
+26798,WATG,small_airport,Frans Sales Lega Airport,-8.597009659,120.4769974,Satar Tacik-Flores Island
+26841,WIMS,medium_airport,Dr. Ferdinand Lumban Tobing Airport,1.557127,98.887145,Sibolga (Pinangsori)
+26840,WIMN,small_airport,Silangit Airport,2.25973,98.991898,Siborong-Borong
+315622,DEX,small_airport,Nop Goliat Airport,-4.8557,139.482006,Dekai - Yahukimo
+333093,WITK,medium_airport,Rembele Airport,4.72113,96.851943,Takengon
+26848,WIOP,medium_airport,Pangsuma Airport,0.835578024,112.9369965,Putussibau-Borneo Island
+26846,WION,medium_airport,Ranai Airport,3.90871,108.388,Ranai-Natuna Besar Island
+35278,WRLP,small_airport,Long Apung Airport,1.704486,114.970297,Long Apung-Borneo Island
+35279,WRLB,small_airport,Long Bawan Airport,3.9028,115.6921,Long Bawan-Borneo Island
+35281,WRLF,small_airport,Nunukan Airport,4.133333333,117.6666667,Nunukan-Nunukan Island
+26758,WALG,small_airport,Tanjung Harapan Airport,2.835833333,117.3736111,Tanjung Selor-Borneo Island
+41430,WAJS,small_airport,Senggeh Airport,-3.45,140.779,Senggeh
+29639,ID-ZGP,medium_airport,Bilogai-Sugapa Airport,-3.73956,137.031998,Sugapa-Papua Island
+41475,WRKA,small_airport,AA Bere Tallo (Haliwen) Airport,-9.074841,124.903285,Atambua
+41405,WAMY,small_airport,Buol Airport,1.1027,121.4141,Buol-Celebes Island
+41478,WRKL,small_airport,Gewayentana Airport,-8.274424,123.002,Larantuka-Flores Island
+26805,WAWT,small_airport,Pongtiku Airport,-3.044739962,119.8219986,Makale
+26803,WAWM,small_airport,Andi Jemma Airport,-2.55803,120.323997,Masamba-Celebes Island
+311020,WAWH,small_airport,Selayar - Haji Aroeppala Airport,-6.17921,120.437479,Benteng
+333039,WAPF,medium_airport,Karel Sadsuitubun Airport,-5.760278,132.759444,Langgur
+330319,MOH,small_airport,Maleo Airport,-2.203333,121.660278,Morowali
+310599,WIPI,small_airport,Muara Bungo Airport,-1.1278,102.135,Muara Bungo
+344101,WAGB,small_airport,Haji Muhammad Sidik Airport,-1.02581,114.92881,Muara Teweh
+331735,WAFD,small_airport,Bua - Palopo Lagaligo Airport,-3.082997,120.245018,Palopo
+331796,WAME,small_airport,Buli Airport,0.9194,128.3825,Pekaulang
+343797,WAGF,small_airport,Seruyan Kuala Pembuang Airport,-3.376062,112.536521,Seruyan
+319816,JIO,small_airport,Jos Orno Imsula Airport,-8.13911,127.9075,Tiakur
+333091,WASN,small_airport,Marinda Airport,-0.423056,130.773333,Waisai
+333072,WAWD,medium_airport,Matahora Airport,-5.293996,123.634,Wangi-wangi Island
+332202,WAHI,medium_airport,Yogyakarta International Airport,-7.905338,110.057264,Yogyakarta
